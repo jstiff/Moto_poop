@@ -8,7 +8,7 @@ const Header = () => {
         {/* Logo */}
         <div className="flex items-center space-x-4">
           <h1 className="text-2xl font-bold bg-gradient-hero bg-clip-text text-transparent">
-            MotorVerse
+            TrueMoto
           </h1>
         </div>
 
